@@ -1,1 +1,14 @@
-[{"id":1,"value":"Activo Fijo"},{"id":2,"value":"Activo Variable"}]
+[
+  {
+    "id": 1,
+    "value": "Post 1"
+  },
+  {
+    "id": 2,
+    "value": "Post 2"
+  },
+  {
+    "id": 3,
+    "value": "Post 3"
+  }
+]
