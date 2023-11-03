@@ -1,1 +1,1 @@
-[{"value":"Administrador 1","id":1,"nombre":"Pruebas 1"},{"value":"Administrador 2","id":2,"nombre":"Pruebas 2"}]
+[{"id":1, "value":"Activo administración"},{"id":2, "value":"Activo RRHH"},{"id":3, "value":"Activo Producción"}]
